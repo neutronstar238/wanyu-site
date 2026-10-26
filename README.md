@@ -2,6 +2,8 @@
 
 一个纯静态的小页面，手写的 HTML + CSS，没有框架、没有构建步骤。
 
+线上地址（GitHub Pages，main 分支根目录）：<https://neutronstar238.github.io/wanyu-site/>
+
 - `index.html` —— 源文件，图片从 `assets/` 引用
 - `余婉瑜.html` —— 同一页面的单文件版，图片已 base64 内嵌，可以直接双击打开或发给别人
 - `assets/portrait.png` —— 页头立绘
